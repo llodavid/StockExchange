@@ -1,0 +1,6 @@
+be\llodavid\domain\Stock.class
+be\llodavid\domain\StockCurrency.class
+be\llodavid\domain\StockPrice.class
+be\llodavid\domain\StockRepository.class
+be\llodavid\domain\AbstractStock.class
+be\llodavid\domain\NullStock.class
